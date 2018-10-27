@@ -3,7 +3,7 @@ package com.srinivas;
 /**
  * Gallon to liters conversion
  * 1 Gallon = 3.7854 liters
- * Task: Output x liters to Gallons
+ * Task: Output x gallons to liters
  */
 public class Main {
 
